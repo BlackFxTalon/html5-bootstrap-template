@@ -1,0 +1,18 @@
+@import "bootstrap";
+@import "mixins";
+
+/* Plugins */
+@import "plugins/plugins-rewrite";
+
+/* Global styles */
+@import "global/global-fonts";
+@import "global/global-typo";
+@import "global/global-scaffolding";
+
+/* index.html */
+@import "index";
+
+/* pages */
+@import "pages/page1.scss";
+// @import "pages/page2.scss";
+// @import "pages/page3.scss";

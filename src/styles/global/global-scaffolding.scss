@@ -1,0 +1,10 @@
+html {
+  font-family: $body-font;
+}
+
+body {
+  background-color: $body-bg;
+  min-height: 100vh;
+  overflow-x: hidden;
+  color: black;
+}

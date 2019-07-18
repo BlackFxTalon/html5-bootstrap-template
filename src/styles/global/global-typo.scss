@@ -1,0 +1,40 @@
+b {
+  font-weight: 500;
+}
+
+strong {
+  font-weight: 700;
+}
+
+input {
+  &:focus {
+    outline: none;
+  }
+}
+
+textarea {
+  resize: none;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+button {
+  cursor: pointer;
+  padding: 0;
+  border: 0;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+input[type="submit"] {
+  cursor: pointer;
+  border: 0;
+}
+
+img {
+  @include img-fluid;
+}
