@@ -21,7 +21,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify-es": "^1.0.4",
     "gulp-uncss": "^1.0.6",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery-bridget": "^2.0.1",
     "popper.js": "^1.14.7",
     "webpack": "^4.29.6",
