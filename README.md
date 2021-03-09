@@ -1,3 +1,3 @@
 # html5-bootstrap-template
-<p style="color:red;font-weight:bold;">DEPRECATED!!!</p>
+<font style="color:red;font-weight:bold;">DEPRECATED!!!</font>
 clone project- <code>git clone https://github.com/BlackFxTalon/html5-bootstrap-template</code>
